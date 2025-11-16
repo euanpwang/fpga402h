@@ -18,3 +18,7 @@ Skill list:
 - verilog counter design
 - FIFO design (module)
 - Timing
+
+## FPGA Workflow Exploration
+### tcl flow
+### AI:HLS + spinal flow
