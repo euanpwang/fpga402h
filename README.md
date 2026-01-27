@@ -1,5 +1,6 @@
 # FPGA from zero to Hero
-As a engineer！
+Learn by doing!
+
 ## FPGA development environment
 design and simulation;
 - design flow
