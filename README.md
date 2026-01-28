@@ -23,3 +23,5 @@ Skill list:
 ## FPGA Workflow Exploration
 ### tcl flow
 ### AI:HLS + spinal flow
+### EDA
+petalinux build linux for ps-pl architecture fpga
