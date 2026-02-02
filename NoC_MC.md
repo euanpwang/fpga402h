@@ -4,7 +4,7 @@ The integrated DDR Memory Controllers (DDRMCs) support both DDR4 and LPDDR4/4X m
 
 > VCK 190 DDR4 & LPDDR4类型：DIMM、LPDDR4 Component
 
-![Screenshot 2026-02-02 at 23.43.07](/Users/yunpengwang/Project/fpga402h/assets/Screenshot 2026-02-02 at 23.43.07.png)
+![Screenshot 2026-02-02 at 23.43.07](./assets/Screenshot 2026-02-02 at 23.43.07.png)
 
 DDR控制器接口包含四个专用的NSU控制器，DDR控制器使用NoC IP向导进行配置。
 
@@ -14,13 +14,13 @@ DDR控制器接口包含四个专用的NSU控制器，DDR控制器使用NoC IP�
 
 
 
-![image-20260203000114918](/Users/yunpengwang/Project/fpga402h/assets/image-20260203000114918.png)
+![image-20260203000114918](./assets/image-20260203000114918.png)
 
 ![Screenshot 2026-02-03 at 00.01.34](/Users/yunpengwang/Project/fpga402h/assets/Screenshot 2026-02-03 at 00.01.34.png)
 
 ## DDR 控制器结构
 
-![image-20260203000703217](/Users/yunpengwang/Project/fpga402h/assets/image-20260203000703217.png)
+![image-20260203000703217](./assets/image-20260203000703217.png)
 
 如上图所示：有四个NoC Slave接口可以直接访问DDR控制器。控制器可以配置为两个独立的存储通道，每个通道的数据位宽为 32 位。
 
